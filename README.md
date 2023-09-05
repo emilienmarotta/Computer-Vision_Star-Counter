@@ -1,4 +1,4 @@
-# Computer Vision - Dot Recognition
+# Computer Vision - Star Counter
 A computer vision program for determining the number of celestial bodies in a photograph.
 
 ## How does the program work ?
